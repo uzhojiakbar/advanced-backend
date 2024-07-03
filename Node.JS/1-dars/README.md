@@ -1,4 +1,4 @@
-### 1- Dars. NODE.JS project init qilish
+### 1-Dars. NODE.JS project init qilish
 
 Node.JS project yaratish uchun biz terminalga npm init commandasini beradmiz:
 
