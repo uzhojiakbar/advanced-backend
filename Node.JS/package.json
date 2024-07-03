@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Node.JS learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "build"
+  },
+  "author": "Murodillayev Hojiakbar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
